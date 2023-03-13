@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQMN/Mp9Rla2YtiGNrcbgr+lry2f18zTrL15evN6ExHUStZq6D1LVkQlfbU1r8M+sF4Os59cLdvOTVcAd8oqOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guent\\source\\repos\\StationSearchService\\StationSearchService.Application\\StationSearchService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guent\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0-preview.1.23110.8\\microsoft.extensions.caching.abstractions.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0-preview.1.23110.8\\microsoft.extensions.caching.memory.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.1.23110.8\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.1.23110.8\\microsoft.extensions.logging.abstractions.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.1.23110.8\\microsoft.extensions.options.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.1.23110.8\\microsoft.extensions.primitives.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

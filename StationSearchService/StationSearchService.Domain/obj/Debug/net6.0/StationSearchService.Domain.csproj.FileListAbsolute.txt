@@ -1,0 +1,12 @@
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\bin\Debug\net6.0\StationSearchService.Domain.deps.json
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\bin\Debug\net6.0\StationSearchService.Domain.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\bin\Debug\net6.0\StationSearchService.Domain.pdb
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.csproj.AssemblyReference.cache
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.AssemblyInfoInputs.cache
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.AssemblyInfo.cs
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\refint\StationSearchService.Domain.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\StationSearchService.Domain.pdb
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Domain\obj\Debug\net6.0\ref\StationSearchService.Domain.dll

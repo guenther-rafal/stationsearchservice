@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K8+6GD1AgL8bRc4ax/xB7F05cjd+LoGNiDrw+KcdTzU=",
+  "Source": "StationSearchService.API",
+  "BasePath": "_content/StationSearchService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bTCd1gzPYT86nv4TZLEOkN4EeACHSwBBUCBpIYTgyLSF3KvpYZykvXJzUKhEy2SxwcjVmi2epFg2GF+8KUFa+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guent\\source\\repos\\StationSearchService\\StationSearchService.Domain\\StationSearchService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guent\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\guent\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

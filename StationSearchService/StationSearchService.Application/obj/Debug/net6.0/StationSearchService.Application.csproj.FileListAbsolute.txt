@@ -1,0 +1,15 @@
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\bin\Debug\net6.0\StationSearchService.Application.deps.json
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\bin\Debug\net6.0\StationSearchService.Application.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\bin\Debug\net6.0\StationSearchService.Application.pdb
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\bin\Debug\net6.0\StationSearchService.Domain.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\bin\Debug\net6.0\StationSearchService.Domain.pdb
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.csproj.AssemblyReference.cache
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.AssemblyInfoInputs.cache
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.AssemblyInfo.cs
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.csproj.CoreCompileInputs.cache
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.csproj.CopyComplete
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\refint\StationSearchService.Application.dll
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\StationSearchService.Application.pdb
+C:\Users\guent\source\repos\StationSearchService\StationSearchService.Application\obj\Debug\net6.0\ref\StationSearchService.Application.dll
